@@ -1,6 +1,7 @@
 # LigaPro Maven
 
 Proyecto desarrollado en Java utilizando Maven para representar los partidos de la LigaPro mediante un grafo.
+Se realiza carga y enlace en repositorio GITHUB
 
 ## Funcionalidades
 
